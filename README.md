@@ -1,12 +1,10 @@
 # Net_Practice
 
-<a src="https://cdn.intra.42.fr/pdf/pdf/93152/en.subject.pdf">subject</a>
-
 <p align="center">
 <img src="https://github.com/Mohcine-Ghalmi/Net_Practice/assets/81354228/436c7b35-b87e-4f20-9d49-8cd3be0edb48">
 </p>
 
-## What is an IP?
+## What is an IP? <a href="https://cdn.intra.42.fr/pdf/pdf/93152/en.subject.pdf">(subject)</a>
 
 >An IP address, short for ``Internet Protocol Address``, represents a set of guidelines governing internet communication, including activities like sending emails, streaming videos, and accessing websites. Essentially, an IP address serves as a label for identifying either a network or a device on the internet.
 
