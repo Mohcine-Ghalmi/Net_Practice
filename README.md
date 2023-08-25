@@ -1,7 +1,7 @@
 # Net_Practice
 
 <p align="center">
-<img src="https://github.com/Mohcine-Ghalmi/Net_Practice/assets/81354228/436c7b35-b87e-4f20-9d49-8cd3be0edb48">
+<img src="https://github.com/Mohcine-Ghalmi/Net_Practice/assets/81354228/436c7b35-b87e-4f20-9d49-8cd3be0edb48" alt="project pic">
 </p>
 
 ## What is an IP? <a href="https://cdn.intra.42.fr/pdf/pdf/93152/en.subject.pdf">(subject)</a>
@@ -10,13 +10,12 @@
 
 
 <p align="center">
-<img src="https://github.com/Mohcine-Ghalmi/Net_Practice/assets/81354228/3a508266-d17c-4cfc-a309-7f6c190f575e" alt="mghalmi 42" width="500">
+<img src="https://github.com/Mohcine-Ghalmi/Net_Practice/assets/81354228/3a508266-d17c-4cfc-a309-7f6c190f575e" alt="IP Address" width="500">
 </p>
  
 ><i>This label consists of two vital components:</i> </br>
 
-1- <b>THE NETWORK ID </b> 
-
+1- <b>THE NETWORK ID </b></br>
 --> `identifies the host such as a computer or other device`</br>
 2- <b>THE HOST ID</b> </br>
 --> ``identifies the network it belongs to``
@@ -54,7 +53,7 @@ TCP/IP is a set of protocols that form the foundation of the internet and most m
 <h4>TCP/IP job is to divide the different communication tasks into layers</h4>
 
 <p align="center">
-<img src="https://github.com/Mohcine-Ghalmi/Net_Practice/assets/81354228/88804d16-6372-4afd-aa95-6e905fe2bba9" alt="mghalmi 42" width="500">
+<img src="https://github.com/Mohcine-Ghalmi/Net_Practice/assets/81354228/88804d16-6372-4afd-aa95-6e905fe2bba9" alt="TCP IP" width="500">
 </p>
 
 <B><ins>Application Layer:</ins></B> This top layer is where applications and services interact with the network. It handles user interfaces, email, web browsing, and other high-level functions. Protocols like HTTP (web), SMTP (email), and FTP (file transfer) operate here.
@@ -66,3 +65,12 @@ TCP/IP is a set of protocols that form the foundation of the internet and most m
 <B><ins>Link Layer:</B></ins> Also known as the Network Interface Layer, this layer deals with the physical connection between devices and the local network. It manages data frames, addresses, and access to the physical transmission medium, like Ethernet or Wi-Fi.
 
 >the four layers of the TCP/IP model ensure that applications can communicate across networks by breaking down communication tasks into manageable components: application handling, data transport, routing, and physical connection management.
+
+## What is a switch?
+
+![Alt text](image.png)
+
+>A switch is a networking device that forms connections among devices within a shared network, commonly a LAN (Local Area Network). It efficiently manages data packets by transmitting them exclusively to their designated recipients. Unlike a router, which makes routing decisions based on IP addresses, a switch focuses on the MAC addresses of devices, ensuring that data goes only to the devices it's intended for. This might include other switches, routers, or individual user computers.
+
+## What is a router?
+
