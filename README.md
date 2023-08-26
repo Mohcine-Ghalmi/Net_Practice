@@ -69,8 +69,15 @@ TCP/IP is a set of protocols that form the foundation of the internet and most m
 ## What is a switch?
 
 ![Alt text](image.png)
-
 >A switch is a networking device that forms connections among devices within a shared network, commonly a LAN (Local Area Network). It efficiently manages data packets by transmitting them exclusively to their designated recipients. Unlike a router, which makes routing decisions based on IP addresses, a switch focuses on the MAC addresses of devices, ensuring that data goes only to the devices it's intended for. This might include other switches, routers, or individual user computers.
 
 ## What is a router?
+
+![Alt text](image-2.png)
+
+>A router is a hardware device that establishes connections between two or more packet-switched networks or subnetworks. It fulfills two core roles: firstly, it efficiently directs data traffic between these interconnected networks by delivering data packets to their designated IP addresses; secondly, it enables multiple devices to share a single internet connection, facilitating concurrent access for various devices within a network.
+
+## How does a router work?
+
+>The primary role of a router is to efficiently route and guide data packets towards their intended destinations, typically represented by their IP addresses. To achieve this, routers rely on an internal routing table—an inventory of pathways to different network destinations. When a router receives a packet, it examines the packet header to ascertain its destination. It then references the routing table to determine the most optimal path for the packet to take, ensuring its prompt and effective delivery to the designated endpoint.
 
